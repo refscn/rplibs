@@ -21,7 +21,7 @@ Axure 部件库目录位置：
 
 ## ☞ Font Awesome 字体图标元件库（修订中，稍后上线）
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
-- [refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
+- [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
 - 原始字体下载地址：https://github.com/FortAwesome/Font-Awesome 。
 - 更多信息，请参见 Font Awesome 官网：http://fontawesome.io 。
 

@@ -8,7 +8,7 @@
 ## ☞ Material Design 元件库
 基于 Material Design 准则创建。包括手机、平板、电脑的常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等分组元件。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")
-- [下载 Noto Sans CJK SC 字体（可选）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")。
+- [下载 Noto Sans CJK SC 字体（可选）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")
 - 更多 Noto 字体，请参见 Google Noto Fonts 官网：https://www.google.com/get/noto/ 。
 - 更多信息，请参见 Material Design 官网：https://material.io 。
 
@@ -29,7 +29,7 @@
 ## ☞ Font Awesome 字体图标元件库
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
 - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
-- [下载 FontAwesome.otf 字体](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")。
+- [下载 FontAwesome.otf 字体](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 Font Awesome 官网：http://fontawesome.io 。
 
 

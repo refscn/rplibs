@@ -6,7 +6,7 @@
 
 # 元件库
 ## ☞ Material Design 元件库
-基于 Material Design 准则创建。包括手机、平板、电脑等平台，和常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等元件分组。
+基于 Material Design 准则创建。包括手机、平板、电脑的常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等分组元件。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")
 - 更多信息，请参见 Material Design 官网：https://material.io 。
 

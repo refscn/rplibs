@@ -19,6 +19,7 @@
 - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")
 - 原始图标下载地址：https://github.com/google/material-design-icons/ 。
 - 更多信息，请参见 Material Design 官网：https://material.io 。
+![](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 
 
 ## ☞ Apple Design 图标元件库

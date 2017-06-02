@@ -6,13 +6,24 @@ Axure 部件库目录位置：
 
 
 # 图标元件
-## ☞[refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
-基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。字体下载地址：https://github.com/FortAwesome/Font-Awesome 。
+## ☞ Material Design 元件库
+基于 Material Design 准则创建。包括手机、平板、电脑等平台，和常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等元件分组。
+- [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")
+- 更多信息，请参见 Material Design 官网：https://material.io 。
 
-更多信息，请参见 Font Awesome 官网：http://fontawesome.io 。
+
+## ☞ Material Design 图标元件库
+基于 Material Design icons V1.0.2 图标创建。
+- [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")
+- 原始图标下载地址：https://github.com/google/material-design-icons 。
+- 更多信息，请参见 Material Design 官网：https://material.io 。
 
 
-## ☞[refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")
-基于 Material Design icons V1.0.2 图标创建。图标下载地址：https://github.com/google/material-design-icons 。
+## ☞ Font Awesome 字体图标元件库（修订中，稍后上线）
+基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
+- [refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
+- 原始字体下载地址：https://github.com/FortAwesome/Font-Awesome 。
+- 更多信息，请参见 Font Awesome 官网：http://fontawesome.io 。
 
-更多信息，请参见 Material Design 官网：https://material.io 。
+
+

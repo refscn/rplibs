@@ -1,17 +1,17 @@
-# 安装 Axure RP 元件
-请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 软件，并在元件库列表中选择相应元件库即可使用。
+安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 软件，并在元件库列表中选择相应元件库即可使用。
 元件库目录位置：
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
 
 
-# 图标元件
+# 元件库
 ## ☞ Material Design 元件库
 基于 Material Design 准则创建。包括手机、平板、电脑等平台，和常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等元件分组。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")
 - 更多信息，请参见 Material Design 官网：https://material.io 。
 
 
+# 图标元件库
 ## ☞ Material Design 图标元件库
 基于 Material Design icons V1.0.2 图标创建。
 - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")

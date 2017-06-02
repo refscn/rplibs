@@ -1,6 +1,6 @@
 # 安装 Axure RP 元件
-请将下载的 .rplib 文件放到 Axure 元件库目录下，然后重新打开 AxureRP 软件，并在部件库列表中选择相应元件库，即可使用元件库中的元件。
-Axure 部件库目录位置：
+请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 软件，并在元件库列表中选择相应元件库即可使用。
+元件库目录位置：
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
 

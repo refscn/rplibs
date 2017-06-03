@@ -17,7 +17,7 @@
 ## ☞ Material Design 图标元件库
 基于 Material Design icons V1.0.2 图标创建。
 - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")
-- 原始图标下载地址：https://github.com/google/material-design-icons/ 。
+- 原始图标地址：https://github.com/google/material-design-icons/tree/1.0.2
 - 更多信息，请参见 Material Design 官网：https://material.io 。
 ![](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 
@@ -25,6 +25,12 @@
 ## ☞ Apple Design 图标元件库
 基于 Apple Design 系统图标创建。
 - [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库")
+
+
+## ☞ 彩图元件库
+基于阿里妈妈 Iconfont 平台多色图标库创建。
+- [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩图元件库")
+- 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
 
 
 ## ☞ Font Awesome 字体图标元件库

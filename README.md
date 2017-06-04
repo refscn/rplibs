@@ -29,7 +29,7 @@
 
 ## ☞ 彩色图标元件库 x32
 基于阿里妈妈 Iconfont 平台多色图标库创建。
-- [下载 refs-color-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-color-colorful.rplib "下载 Iconfont 平台彩色图标元件库")
+- [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库")
 - 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
 
 

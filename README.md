@@ -20,7 +20,7 @@
 
 
 ## 图标/图片元件库
-### ☞ Material Design 图标元件库 x24
+### ☞ Material Design 图标 x24
 基于 Material Design icons V1.0.2 图标创建。
 - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")
 - 原始图标地址：https://github.com/google/material-design-icons/tree/1.0.2
@@ -28,31 +28,31 @@
 ![](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 
 
-### ☞ Apple Design 图标元件库 x24
+### ☞ Apple Design 图标 x24
 基于 Apple Design 系统图标创建。
 - [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库")
 
 
-### ☞ 阿里巴巴图标元件库 x24
+### ☞ 阿里巴巴图标 x24
 基于阿里妈妈 Iconfont 平台多色图标库创建。
 - [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库")
 - 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
 
 
-### ☞ 彩色图标元件库 x32
+### ☞ 彩色图标 x32
 基于阿里妈妈 Iconfont 平台多色图标库创建。
 - [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库")
 - 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
 
 
-### ☞ 彩色图片元件库 x128
+### ☞ 彩色图片 x128
 基于阿里妈妈 Iconfont 平台多色图标库创建。
 - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库")
 - 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
 
 
 ## 字体图标元件库
-### ☞ Font Awesome 字体图标元件库 x24
+### ☞ Font Awesome 字体图标 x24
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
 - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
 - [下载 FontAwesome.otf 字体（必须）](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")

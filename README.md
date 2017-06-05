@@ -3,7 +3,7 @@
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
 
-如果你想获取最新的元件库，请 ★Star 此版本库。
+如果你觉得这些元件库还不错，想了解和获取后续更新版本，请 ★Star 此版本库。
 
 
 ## 设计平台元件库

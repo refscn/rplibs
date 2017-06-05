@@ -1,12 +1,14 @@
-安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 软件，并在元件库列表中选择相应元件库即可使用。
+安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 8 软件，并在元件库列表中选择相应元件库即可使用。
 元件库目录位置：
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
 
+如果你想获取最新的元件库，请 ★Star rplibs 版本库。
+
 
 ## 设计平台元件库
 ### ☞ Material Design 元件库
-基于 Material Design 准则创建。包括手机、平板、电脑的常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等分组元件。
+基于 Google Material Design 准则创建。包括手机、平板、电脑的常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等分组元件。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")
 - [下载 Noto Sans CJK SC 字体（可选）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")
 - 更多 Noto 字体，请参见 Google Noto Fonts 官网：https://www.google.com/get/noto/ 。
@@ -14,9 +16,15 @@
 
 
 ### ☞ Apple Design 元件库(进行中)
+基于 Apple iOS/macOS Human Interface Guidelines 创建。
 
 
 ### ☞ Fluent Design 元件库(进行中)
+基于 Microsoft Fluent Design System 创建。
+
+
+## 设计平台元件库
+### ☞ 网页设计元件库
 
 
 ## 图标/图片元件库

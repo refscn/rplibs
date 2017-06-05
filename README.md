@@ -17,7 +17,8 @@
 
 ### ☞ Apple Design 元件库(进行中)
 基于 Apple iOS/macOS Human Interface Guidelines 创建。
-
+- iOS 平台更多信息，请参见：https://developer.apple.com/ios/human-interface-guidelines/ 。
+- macOS 平台更多信息，请参见：https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ 。
 
 ### ☞ Fluent Design 元件库(进行中)
 基于 Microsoft Fluent Design System 创建。
@@ -39,6 +40,8 @@
 ### ☞ Apple Design 图标 x24
 基于 Apple Design 系统图标创建。
 - [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库")
+- iOS 原始图标地址：https://developer.apple.com/ios/human-interface-guidelines/graphics/system-icons/
+- macOS 原始图标地址：https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html 。
 
 
 ### ☞ 阿里巴巴图标

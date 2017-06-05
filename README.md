@@ -33,21 +33,11 @@
 - [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库")
 
 
-### ☞ 阿里巴巴图标 x24
-基于阿里妈妈 Iconfont 平台多色图标库创建。
-- [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库")
-- 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
-
-
-### ☞ 彩色图标 x32
-基于阿里妈妈 Iconfont 平台多色图标库创建。
-- [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库")
-- 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
-
-
-### ☞ 彩色图片 x128
-基于阿里妈妈 Iconfont 平台多色图标库创建。
-- [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库")
+### ☞ 阿里巴巴图标
+基于阿里妈妈 Iconfont 平台图标库创建。
+- [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24）
+- [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32）
+- [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128）
 - 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
 
 

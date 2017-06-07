@@ -8,7 +8,7 @@
 
 ## 设计平台元件库
 ### ☞ Material Design 元件库
-基于 Google Material Design 准则创建。
+基于 Google Material Design 准则创建，适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")，包括手机、平板、电脑的常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等分组元件。
 > - [下载 Noto Sans CJK SC 字体（可选安装）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")，安装后原型页面有更好的显示效果。
 > - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
@@ -16,7 +16,7 @@
 
 
 ### ☞ Apple Design 元件库
-基于 Apple iOS/macOS Human Interface Guidelines 创建。
+基于 Apple iOS/macOS Human Interface Guidelines 创建，适用于 iPhone、iPad 和 macOS 桌面应用的原型设计。
 - 下载 refs-design-apple.rplib（进行中，稍后推出）
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。

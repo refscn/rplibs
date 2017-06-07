@@ -57,14 +57,14 @@
 - [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24），包括 Alibaba 国际站、支付宝、支付宝记账等分组图标。
 - [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32），包括社交、社交（国外）、文档类型等分组图标。
 - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128），包括生活小图、生肖地支春节、天气、图表、交通、乐器、生活等分组图标。
-- 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn ，Smallicons 官网：http://smallicons.net 等。
+- 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn ；Smallicons 官网：http://smallicons.net 等。
 
 
 ### ☞ 手势图片元件库
 基于 Jeff Portaro 的 Touch Gestures Icons 创建。 
 - [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和一些扩展等分类图片。
 - 原始图片地址：https://pixelbuddha.net/freebie/touch-gestures-icons
-![](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
+- [预览全部图片](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 
 
 ## 字体图标元件库

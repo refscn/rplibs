@@ -41,8 +41,9 @@
 基于 Material Design icons V1.0.2 图标创建。
 - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")，包括 action, alert, av, communication, content, device, editor, file, hardware, image, maps, navigation, notification, social, toogle 等分组图标。
 > - [原始图标地址](https://github.com/google/material-design-icons/tree/1.0.2)
+>
+> ![图标预览](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
-- ![](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 
 
 ### ☞ Apple Design 图标 x24

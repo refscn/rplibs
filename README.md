@@ -39,18 +39,18 @@
 
 
 ## 图标/图片元件库
-### ☞ Material Design 图标 x24
+### ☞ Material Design 图标
 基于 Material Design icons V1.0.2 图标创建。
-- [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")，包括 action, alert, av, communication, content, device, editor, file, hardware, image, maps, navigation, notification, social, toogle 等分组图标。
+- [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库") （官方图标 x24），包括 action, alert, av, communication, content, device, editor, file, hardware, image, maps, navigation, notification, social, toogle 等分组图标。
 > - [原始图标地址](https://github.com/google/material-design-icons/tree/1.0.2)
 >
 > ![图标预览](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 
-### ☞ Apple Design 图标 x28
+### ☞ Apple Design 图标
 基于 Apple Design 系统图标创建。
-- [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库")，包括导航和工具栏、切换栏、快捷操作等分组图标。
+- [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库") （官方图标 x28），包括导航和工具栏、切换栏、快捷操作等分组图标。
 > - [查看 iOS 原始图标地址](https://developer.apple.com/ios/human-interface-guidelines/graphics/system-icons/)
 > - [查看 macOS 原始图标地址](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html)
 
@@ -71,8 +71,8 @@
 
 
 ## 字体图标元件库
-### ☞ Font Awesome 字体图标 x24
+### ☞ Font Awesome 字体图标
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
-- [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")，包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
+- [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库") （官方图标 x24），包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
 > - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。

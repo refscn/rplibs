@@ -21,9 +21,11 @@
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
+
 ### ☞ Fluent Design 元件库
-基于 Microsoft Fluent Design System 创建。
+基于 Microsoft Fluent Design System 创建，适用于 Windows Phone、Surface、桌面和 UWP 应用的原型设计。
 - （进行中，稍后推出）
+
 
 ## 设计平台元件库
 ### ☞ 移动网页设计元件库

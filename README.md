@@ -15,17 +15,17 @@
 - 更多信息，请参见 Material Design 官网：https://material.io 。
 
 
-### ☞ Apple Design 元件库(进行中)
+### ☞ Apple Design 元件库（进行中，稍后推出）
 基于 Apple iOS/macOS Human Interface Guidelines 创建。
 - iOS 平台更多信息，请参见：https://developer.apple.com/ios/human-interface-guidelines/ 。
 - macOS 平台更多信息，请参见：https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ 。
 
-### ☞ Fluent Design 元件库(进行中)
+### ☞ Fluent Design 元件库（进行中，稍后推出）
 基于 Microsoft Fluent Design System 创建。
 
 
 ## 设计平台元件库
-### ☞ 网页设计元件库
+### ☞ 网页设计元件库（进行中，稍后推出）
 
 
 ## 图标/图片元件库
@@ -41,15 +41,22 @@
 基于 Apple Design 系统图标创建。
 - [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库")
 - iOS 原始图标地址：https://developer.apple.com/ios/human-interface-guidelines/graphics/system-icons/
-- macOS 原始图标地址：https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html 。
+- macOS 原始图标地址：https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html
 
 
-### ☞ 阿里巴巴图标
+### ☞ 阿里巴巴图标/图片
 基于阿里妈妈 Iconfont 平台图标库创建。
 - [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24）
 - [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32）
 - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128）
 - 更多信息，请参见 Iconfont 平台官网：https://iconfont.cn 。
+
+
+### ☞ 手势图片元件库
+基于 Jeff Portaro 的 Touch Gestures Icons 创建。 
+- [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") 
+- 原始图片地址：https://pixelbuddha.net/freebie/touch-gestures-icons
+![](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 
 
 ## 字体图标元件库
@@ -58,6 +65,5 @@
 - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")
 - [下载 FontAwesome.otf 字体（必须）](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 Font Awesome 官网：http://fontawesome.io 。
-
 
 

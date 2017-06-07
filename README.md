@@ -10,7 +10,7 @@
 ### ☞ Material Design 元件库
 基于 Google Material Design 准则创建。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")，包括手机、平板、电脑的常规、模式、基本、输入、列表、富列表、卡片、弹窗、扩展等分组元件。
-> - [下载 Noto Sans CJK SC 字体（可选）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")
+> - [下载 Noto Sans CJK SC 字体（可选安装）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")，安装后原型页面有更好的显示效果。
 > - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
@@ -42,7 +42,7 @@
 - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库")，包括 action, alert, av, communication, content, device, editor, file, hardware, image, maps, navigation, notification, social, toogle 等分组图标。
 > - [原始图标地址](https://github.com/google/material-design-icons/tree/1.0.2)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
-![](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
+- ![](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 
 
 ### ☞ Apple Design 图标 x24
@@ -71,5 +71,5 @@
 ### ☞ Font Awesome 字体图标 x24
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
 - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库")，包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
-> - [下载 FontAwesome.otf 字体（必须）](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")
+> - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。

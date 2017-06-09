@@ -29,8 +29,8 @@
 
 ## 网页设计元件库
 ### ☞ 移动网页设计元件库
-包括微信等移动网页的设计元素。
-- （进行中，稍后推出）
+基于微信 WeUI 和小程序设计指南等创建，适用于 iPhone 浏览器的移动网页的原型设计。
+- [下载 refs-web-ios.rplib](https://github.com/refscn/rplibs/raw/master/refs-web-ios.rplib "下载 iPhone 移动网页设计元件库")，包括常规、导航/模式、基础、列表、选择/输入、卡片、弹窗和扩展等分组元件。
 
 
 ### ☞ 桌面网页设计元件库

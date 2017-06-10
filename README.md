@@ -8,7 +8,7 @@
 
 ## 设计平台元件库
 ### ☞ Material Design 元件库
-基于 Google Material Design 准则创建，适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计。
+基于 Google Material Design 准则创建，`适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计`。
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")，包括常规、模式、基本、输入、列表、富列表、卡片、弹窗和扩展等分组元件。
 > - [下载 Noto Sans CJK SC 字体（可选安装）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")，安装后原型页面有更好的显示效果。
 > - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
@@ -16,20 +16,20 @@
 
 
 ### ☞ Apple Design 元件库
-基于 Apple iOS/macOS Human Interface Guidelines 创建，适用于 iPhone、iPad 和 macOS 桌面应用的原型设计。
+基于 Apple iOS/macOS Human Interface Guidelines 创建，`适用于 iPhone、iPad 和 macOS 桌面应用的原型设计`。
 - 下载 refs-design-apple.rplib 。（进行中，稍后推出）
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
 
 ### ☞ Fluent Design 元件库
-基于 Microsoft Fluent Design System 创建，适用于 Windows Phone、Surface、桌面和 UWP 应用的原型设计。
+基于 Microsoft Fluent Design System 创建，`适用于 Windows Phone、Surface、桌面和 UWP 应用的原型设计`。
 - （进行中，稍后推出）
 
 
 ## 网页设计元件库
 ### ☞ 移动网页设计元件库
-基于微信 WeUI 和小程序设计指南等创建，适用于移动网页的原型设计。
+基于微信 WeUI 和小程序设计指南等创建，`适用于移动网页的原型设计`。
 - [下载 refs-web-ios.rplib](https://github.com/refscn/rplibs/raw/master/refs-web-ios.rplib "下载 iPhone 移动网页设计元件库")，包括常规、导航/模式、基础、列表、选择/输入、卡片、弹窗和扩展等分组元件。
 > - 微信 WeUI 更多信息，请参见 [微信 WeUI 官网](https://weui.io) 。
 > - 微信小程序设计更多信息，请参见 [微信小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/) 。

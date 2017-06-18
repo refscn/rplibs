@@ -17,7 +17,7 @@
 
 ### ☞ Apple Design 元件库
 基于 Apple iOS/macOS Human Interface Guidelines 创建，适用于 iPhone、iPad 和 macOS 桌面应用的原型设计。
-- 下载 refs-design-apple.rplib 。（进行中，稍后推出）
+- 下载 refs-design-apple.rplib （进行中，稍后推出）
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 

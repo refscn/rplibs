@@ -57,16 +57,21 @@
 > - [查看 macOS 原始图标地址](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html)
 
 
-### ☞ 阿里巴巴图标/图片
-基于Icons8、Smallicons、阿里妈妈 Iconfont 等图标创建。
+### ☞ Icons8 图标/图片
+基于 Icons8 图标创建。
 - [下载 refs-icon-s8flat.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-s8flat.rplib "下载 Icons8 Flat 彩色图标元件库") （彩色图标 x32），包括照片和视频、基本、商业、工业、移动、箭头、数据和新增等分组图标。
 > - [原始图标地址](https://icons8.github.io/flat-color-icons/)
 >
 > ![图标预览](https://camo.githubusercontent.com/7c6dd6b82b1332611dd74f551022b595c046c3f0/68747470733a2f2f63646e642e69636f6e73382e636f6d2f646f776e6c6f61642f696d616765732f666c61742d636f6c6f722d69636f6e732e706e67)
+- 更多信息，请参见 [Icons8 官网](https://icons8.com)。
+
+
+### ☞ Iconfont 等平台图标/图片
+基于 Smallicons、阿里妈妈 Iconfont 等图标创建。
 - [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32），包括社交、社交（国外）、文档类型等分组图标。
 - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128），包括生活小图、生肖地支春节、天气、图表、交通、乐器、生活等分组图片。
 - [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24），包括 Alibaba 国际站、支付宝、支付宝记账等分组图标。
-- 更多信息，请参见 [Icons8 官网](https://icons8.com)、[Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
+- 更多信息，请参见 [Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
 
 
 ### ☞ 手势图片元件库

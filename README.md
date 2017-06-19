@@ -72,7 +72,7 @@
 - [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24），包括 Alibaba 国际站、支付宝、支付宝记账等分组图标。
 - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128），包括生活小图、生肖地支春节、天气、图表、交通、乐器、生活等分组图片。
 - [下载 refs-image-cover.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-cover.rplib "下载封面图片元件库") （彩色图片 x128），包括封面等分组图片。
-- 更多信息，请参见 [Easyicon 官网](http://easyicon.net) 、[Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
+- 更多信息，请参见 [Easyicon 官网](http://www.easyicon.net) 、[Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
 
 
 ### ☞ 手势图片元件库

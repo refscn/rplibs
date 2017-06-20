@@ -1,4 +1,1 @@
-*.html linguist-language=Axure RP
-*.js linguist-language=Axure RP
-*.css linguist-language=Axure RP
-*.rplib linguist-language=Axure RP
+*.rplib linguist-language=HTML

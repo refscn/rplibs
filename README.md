@@ -41,9 +41,9 @@
 - 下载 refs-webd-backend.rplib （进行中，稍后推出）
 
 
-## 图表设计元件库
+## 图表元件库
 ### ☞ 数据和模型图表
-- 下载 refs-chart-data.rplib （进行中，稍后推出），包括线型、面积、条形、柱状、K 线、箱线、饼图、环形、雷达、散点、气泡、关系、漏斗、热点、仪表、比较、地图等各类数据图表。
+- [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
 
 
 ## 图标/图片元件库

@@ -45,6 +45,7 @@
 ## 图表元件库
 ### ☞ 数据和模型图表
 - [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
+> ![图标预览](https://github.com/refscn/rplibs/raw/master/assets/chart-data.png）
 - 下载 refs-chart-model.rplib （进行中，稍后推出），包括描述产品需求流程的 UML 顺序图、状态图、活动图等分组图表。
 
 

@@ -24,7 +24,7 @@
 
 ### ☞ Fluent Design
 基于 Microsoft Fluent Design System 创建，适用于 Windows Phone、Surface、桌面和 UWP 应用的原型设计。
-- （进行中，稍后推出）
+- 下载 refs-design-fluent.rplib （进行中，稍后推出）
 
 
 ## 网页设计元件库
@@ -36,16 +36,18 @@
 > - 微信小程序设计更多信息，请参见 [微信小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/) 。
 
 
-### ☞ 桌面网页设计元件库
-包括通用官网，社交、电商类网站的前端和后端桌面网页的设计元素。
+### ☞ 桌面网页设计
+包括通用官网，社交、电商和媒体等分类网站的前端和后端桌面网页的设计元素。
 - 下载 refs-webd-backend.rplib （进行中，稍后推出）
+- 下载 refs-webd-frontend.rplib （进行中，稍后推出）
 
 
 ## 图表元件库
 ### ☞ 数据和模型图表
 - [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
+- 下载 refs-chart-model.rplib （进行中，稍后推出），包括用户描述产品流程的跨职能泳道图，UML 顺序图、状态图等分组图表。
 
-
+   
 ## 图标/图片元件库
 ### ☞ Material Design 图标
 基于 Material Design icons V1.0.2 图标创建。

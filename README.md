@@ -18,6 +18,7 @@
 ### ☞ Apple Design
 基于 Apple iOS/macOS Human Interface Guidelines 创建，适用于 iPhone、iPad 和 macOS 桌面应用的原型设计（macOS 部分请关注后续更新）。
 - [下载 refs-design-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-apple.rplib "下载 Apple Design 元件库")，包括常规、导航/模式、基本、列表、列表左右件、选择/输入、弹窗和扩展等分组元件。
+> ![预览](https://github.com/refscn/rplibs/raw/master/assets/design-apple.png)
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
@@ -31,7 +32,7 @@
 ### ☞ 移动网页设计
 基于微信 WeUI 和小程序设计指南等创建，适用于包括微信在内的移动网页或 HTML5 轻应用的原型设计。
 - [下载 refs-webm-wechat.rplib](https://github.com/refscn/rplibs/raw/master/refs-webm-wechat.rplib "下载微信移动网页设计元件库")，包括常规、导航/模式、基础、列表、选择/输入、卡片、弹窗和扩展等分组元件，基于 iPhone 原型尺寸描述。
-> ![图标预览](https://mp.weixin.qq.com/debug/wxadoc/design/image/6error.png)
+> ![预览](https://mp.weixin.qq.com/debug/wxadoc/design/image/6error.png)
 > - 微信 WeUI 更多信息，请参见 [微信 WeUI 官网](https://weui.io) 。
 > - 微信小程序设计更多信息，请参见 [微信小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/) 。
 
@@ -45,7 +46,7 @@
 ## 图表元件库
 ### ☞ 数据和模型图表
 - [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
-> ![图表预览](https://github.com/refscn/rplibs/raw/master/assets/chart-data.png)
+> ![预览](https://github.com/refscn/rplibs/raw/master/assets/chart-data.png)
 - 下载 refs-chart-model.rplib （进行中，稍后推出），包括描述产品需求流程的 UML 顺序图、状态图、活动图等分组图表。
 
 

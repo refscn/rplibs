@@ -12,6 +12,7 @@
 - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")，包括常规、模式、基本、输入、列表、富列表、卡片、弹窗和扩展等分组元件。
 > - [下载 Noto Sans CJK SC 字体（可选安装）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")，安装后原型页面有更好的显示效果。
 > - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
+> ![预览](https://github.com/refscn/rplibs/raw/master/assets/design-material.png)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 

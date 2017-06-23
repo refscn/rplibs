@@ -29,15 +29,15 @@
 
 
 ## 网页设计元件库
-### ☞ 移动网页设计
+### ☞ 移动网页
 基于微信 WeUI 和小程序设计指南等创建，适用于包括微信在内的移动网页或 HTML5 轻应用的原型设计。
 - [下载 refs-webm-wechat.rplib](https://github.com/refscn/rplibs/raw/master/refs-webm-wechat.rplib "下载微信移动网页设计元件库")，包括常规、导航/模式、基础、列表、选择/输入、卡片、弹窗和扩展等分组元件，基于 iPhone 原型尺寸描述。
-> ![预览](https://mp.weixin.qq.com/debug/wxadoc/design/image/6error.png)
+> ![预览](https://github.com/refscn/rplibs/raw/master/assets/webm-wechat.png)
 > - 微信 WeUI 更多信息，请参见 [微信 WeUI 官网](https://weui.io) 。
 > - 微信小程序设计更多信息，请参见 [微信小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/) 。
 
 
-### ☞ 桌面网页设计
+### ☞ 桌面网页
 包括通用官网，社交、电商和媒体等分类网站的前端和后端桌面网页的设计元素。
 - 下载 refs-webd-backend.rplib （进行中，稍后推出）
 - 下载 refs-webd-frontend.rplib （进行中，稍后推出）

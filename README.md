@@ -62,11 +62,12 @@
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 
-### ☞ Apple Design 图标
-基于 Apple Design 系统图标创建。
-- [下载 refs-icon-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-apple.rplib "下载 Apple Design 图标元件库") （官方图标 x28），包括导航和工具栏、切换栏、快捷操作等分组图标。
-> - [查看 iOS 原始图标地址](https://developer.apple.com/ios/human-interface-guidelines/graphics/system-icons/)
-> - [查看 macOS 原始图标地址](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html)
+### ☞ 品牌设计图标
+基于 Apple、IBM 等品牌图标创建。
+- [下载 refs-icon-brands.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-brands.rplib "下载品牌设计图标元件库") （官方图标 x28/x24），包括 Apple 系统导航和工具栏、切换栏、快捷操作，IBM Design 操作、格式、对象等分组图标。
+> - [查看 Apple iOS 原始图标地址](https://developer.apple.com/ios/human-interface-guidelines/graphics/system-icons/)
+> - [查看 Apple macOS 原始图标地址](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/SystemProvided.html)
+> - [查看 IBM Design 原始图标地址](https://www.ibm.com/design/language/resources/icon-library/)
 
 
 ### ☞ Icons8 图标/图片

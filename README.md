@@ -25,7 +25,7 @@
 
 
 ### ☞ Fluent Design
-基于 Microsoft Fluent Design System 创建，适用于 Windows Phone、Surface、桌面和 UWP 应用的原型设计。
+基于 Microsoft Fluent Design System 创建，适用于 Windows 手机、平板和桌面 UWP 应用的原型设计。
 - 下载 refs-design-fluent.rplib （进行中，稍后推出）
 
 

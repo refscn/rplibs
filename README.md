@@ -14,6 +14,8 @@
 > - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-material-preview.png)
+>
+> [查看完整大图](http://refs.cn/design/rplibs/design-material)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 
@@ -22,6 +24,8 @@
 - [下载 refs-design-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-apple.rplib "下载 Apple Design 元件库")，包括常规、导航/模式、基本、列表、列表左右件、选择/输入、弹窗和扩展等分组元件。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-apple-preview.png)
+>
+> [查看完整大图](http://refs.cn/design/rplibs/design-apple)
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
@@ -37,6 +41,8 @@
 - [下载 refs-webm-wechat.rplib](https://github.com/refscn/rplibs/raw/master/refs-webm-wechat.rplib "下载微信移动网页设计元件库")，包括常规、导航/模式、基础、列表、选择/输入、卡片、弹窗和扩展等分组元件，基于 iPhone 原型尺寸描述。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/webm-wechat-preview.png)
+>
+> [查看完整大图](http://refs.cn/design/rplibs/webm-wechat)
 > - 微信 WeUI 更多信息，请参见 [微信 WeUI 官网](https://weui.io) 。
 > - 微信小程序设计更多信息，请参见 [微信小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/) 。
 
@@ -52,10 +58,14 @@
 - [下载 refs-chart-model.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-model.rplib "下载模型图表元件库")，包括描述产品需求流程的 UML 状态图、活动图、序列图、用例图，以及商业等分组图表。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-model-preview.png)
+>
+> [查看完整大图](http://refs.cn/design/rplibs/chart-model.png)
 - [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-data-preview.png)
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-data-map-preview.png)
+>
+> [查看完整大图](http://refs.cn/design/rplibs/chart-data.png)
 
 
 ## 图标/图片元件库
@@ -65,6 +75,8 @@
 > - [原始图标地址](https://github.com/google/material-design-icons/tree/1.0.2)
 >
 > ![图标预览](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
+> 
+> [查看完整大图](http://refs.cn/design/rplibs/design-material)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 

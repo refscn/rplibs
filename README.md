@@ -15,7 +15,7 @@
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-material-preview.png)
 >
-> [查看完整大图](http://refs.cn/design/rplibs/design-material)
+> [查看完整大图](http://refs.cn/rplibs/design-material)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 
@@ -25,7 +25,7 @@
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-apple-preview.png)
 >
-> [查看完整大图](http://refs.cn/design/rplibs/design-apple)
+> [查看完整大图](http://refs.cn/rplibs/design-apple)
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
@@ -42,7 +42,7 @@
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/webm-wechat-preview.png)
 >
-> [查看完整大图](http://refs.cn/design/rplibs/webm-wechat)
+> [查看完整大图](http://refs.cn/rplibs/webm-wechat)
 > - 微信 WeUI 更多信息，请参见 [微信 WeUI 官网](https://weui.io) 。
 > - 微信小程序设计更多信息，请参见 [微信小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/) 。
 
@@ -59,13 +59,13 @@
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-model-preview.png)
 >
-> [查看完整大图](http://refs.cn/design/rplibs/chart-model)
+> [查看完整大图](http://refs.cn/rplibs/chart-model)
 - [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-data-preview.png)
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-data-map-preview.png)
 >
-> [查看完整大图](http://refs.cn/design/rplibs/chart-data)
+> [查看完整大图](http://refs.cn/rplibs/chart-data)
 
 
 ## 图标/图片元件库
@@ -76,7 +76,7 @@
 >
 > ![图标预览](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 > 
-> [查看完整大图](http://refs.cn/design/rplibs/icon-material-v1)
+> [查看完整大图](http://refs.cn/rplibs/icon-material-v1)
 - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 

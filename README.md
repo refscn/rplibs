@@ -61,7 +61,7 @@
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-model-preview.png)
 >
 > [查看完整大图](http://refs.cn/rplibs/chart-model)
-- [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表；适合桌面端的稍后更新。
+- [下载 refs-chart-data.rplib](https://github.com/refscn/rplibs/raw/master/refs-chart-data.rplib "下载数据图表元件库")，包括适合移动端的点图、线图、区域图、柱状图、饼图、雷达图、股票图、仪表盘及混合等各类数据图表。
 >
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-data-preview.png)
 > ![预览](https://github.com/refscn/rpdemo/raw/master/assets/chart-data-map-preview.png)

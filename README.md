@@ -1,3 +1,5 @@
+> 郑重申明：Refs.cn 在这里开源的 Axure RP 元件库，秉承开放共享的思想，为大家提供免费使用，欢迎各站点转载和分享，但严禁用于销售，违者必究。
+
 安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 8 软件，并在元件库列表中选择相应元件库即可使用。
 元件库目录位置：
 - Windows 系统：我的文档/Axure/Libraries
@@ -122,3 +124,5 @@
 
 
 更多参考资源，请访问 https://refscn.github.io 。
+
+

@@ -3,8 +3,12 @@
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
 
-如果你觉得这些元件库还不错，想了解和获取后续更新版本，请 ★Star 此版本库。
-如果你有什么好的建议，可[通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我们。
+> 希望 Refs.cn 制作的元件库能给大家带来帮助。如果感觉还不错，简单 ★Star 一下就很感激了。如果想了解和获取后续更新版本，也可以保持关注。
+> 如果你有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
+
+> 还有一些资源推荐给你：
+> - Axure RP 导出的网页原型界面汉化包：https://github.com/refscn/rphh
+> - 提供知识索引的参考卡片：https://github.com/refscn/cards
 
 
 ## 设计平台元件库

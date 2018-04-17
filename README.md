@@ -121,7 +121,7 @@
 ### ☞ Font Awesome 字体图标
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。
 - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库") （官方图标 x24），包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
-> - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/raw/master/fonts/FontAwesome.otf "下载 Font Awesome 字体")
+> - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/blob/v4.7.0/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。
 
 

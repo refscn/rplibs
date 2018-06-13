@@ -7,7 +7,7 @@
 > 如果您有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
 
 另外，还有一些资源推荐给您：
-> - Axure RP 导出的网页原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh)
+> - Axure RP 导出的网页原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 8.1.0.3377 版本）
 > - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
 

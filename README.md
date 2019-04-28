@@ -1,4 +1,4 @@
-安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 8 软件，并在元件库列表中选择相应元件库即可使用。
+安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 9/8 软件，并在元件库列表中选择相应元件库即可使用。
 元件库目录位置：
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
@@ -7,10 +7,14 @@
 > 如果您有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
 
 另外，还有一些资源推荐给您：
-> - Axure RP 导出的网页原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 8.1.0.3382 版本）
+> - Axure RP 导出的网页原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本）
+
+汉化预览:
+![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
+
 > - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
-
+---
 ## 设计平台元件库
 ### ☞ Material Design
 基于 Google Material Design 准则创建，适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计。

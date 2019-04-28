@@ -7,12 +7,10 @@
 > 如果您有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
 
 另外，还有一些资源推荐给您：
-> - Axure RP 导出的网页原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本）
-
-汉化预览:
+- Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本），汉化预览:
 ![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
 
-> - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
+- 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
 ---
 ## 设计平台元件库

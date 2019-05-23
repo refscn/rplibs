@@ -6,12 +6,6 @@
 希望 Refs.cn 制作的元件库能给您带来帮助，如果感觉还不错，简单 ★Star 一下就很感激了。想了解和获取后续更新版本，也可以保持关注。
 > 如果您有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
 
-另外，还有一些资源推荐给您：
-- Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本），汉化预览:
-![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
-
-- 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
-
 ---
 ## 设计平台元件库
 ### ☞ Material Design
@@ -125,6 +119,14 @@
 - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库") （官方图标 x24），包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
 > - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/blob/v4.7.0/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。
+
+
+### 资源推荐
+另外，还有一些资源推荐给您：
+- Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本），汉化预览:
+![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
+
+- 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
 
 更多参考资源，请访问 https://refscn.github.io 。

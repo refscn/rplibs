@@ -24,7 +24,7 @@
 
 ![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-apple-preview.png)
 > [查看完整大图](http://refs.cn/rplibs/design-apple)
-- [下载 refs-design-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-apple.rplib "下载 Apple Design 元件库")，包括常规、导航/模式、基本、列表、列表左右件、选择/输入、弹窗和扩展等分组元件。
+> - [下载 refs-design-apple.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-apple.rplib "下载 Apple Design 元件库")，包括常规、导航/模式、基本、列表、列表左右件、选择/输入、弹窗和扩展等分组元件。
 > - iOS 平台更多信息，请参见 [iOS 设计准则](https://developer.apple.com/ios/human-interface-guidelines/) 。
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
@@ -68,10 +68,10 @@
 ## 图标/图片元件库
 ### ☞ Material Design 图标
 基于 Material Design icons V1.0.2 图标创建。
-![图标预览](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 
+![图标预览](https://github.com/google/material-design-icons/raw/1.0.2/sprites/css-sprite/sprite-action-grey600.png)
 > [查看完整大图](http://refs.cn/rplibs/icon-material-v1)
-- [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库") （官方图标 x24），包括 action, alert, av, communication, content, device, editor, file, hardware, image, maps, navigation, notification, social, toggle 等分组图标。
+> - [下载 refs-icon-material-v1.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-material-v1.rplib "下载 Material Design 图标元件库") （官方图标 x24），包括 action, alert, av, communication, content, device, editor, file, hardware, image, maps, navigation, notification, social, toggle 等分组图标。
 > - [原始图标地址](https://github.com/google/material-design-icons/tree/1.0.2)
 > - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
@@ -102,14 +102,14 @@
 
 ### ☞ 手势图片
 基于 Jeff Portaro 的 Touch Gestures Icons 创建，适用于所有移动平台触控、桌面触控，以及触控面板的操作手势表达。 
-- [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和扩展手势等分类图片。
+> - [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和扩展手势等分类图片。
 > - [查看原始图片地址](https://pixelbuddha.net/freebie/touch-gestures-icons)
 > - [预览全部图片](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 
 
 ### ☞ Font Awesome 字体图标
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。另外，如果不想在导出的原型中依赖字体库，造成不方便的情况，可以在原型设计时，拉入字体图标后，鼠标右键“Convert to Image”来将其转换为图片即可。
-- [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库") （官方图标 x24），包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
+> - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库") （官方图标 x24），包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
 > - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/blob/v4.7.0/fonts/FontAwesome.otf "下载 Font Awesome 字体")
 - 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。
 

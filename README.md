@@ -31,7 +31,7 @@
 
 ### ☞ Fluent Design
 基于 Microsoft Fluent Design System 创建，适用于 Windows 手机、平板和桌面 UWP 应用的原型设计。
-- 下载 refs-design-fluent.rplib （进行中，稍后推出）
+> - 下载 refs-design-fluent.rplib （进行中，稍后推出）
 
 
 ## 网页设计元件库
@@ -94,10 +94,10 @@
 
 ### ☞ 图标平台图标/图片
 基于 Easyicon、Smallicons、阿里妈妈 Iconfont 等图标创建。
-- [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24），包括 Alibaba 国际站、支付宝、支付宝记账等分组图标。
-- [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32），包括社交、社交（国外）、文档类型等分组图标。
-- [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128），包括封面、生活小图、生肖地支春节、天气、图表、交通、乐器、生活等分组图片。
-- 更多信息，请参见 [Easyicon 官网](http://www.easyicon.net) 、[Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
+> - [下载 refs-icon-alibaba.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-alibaba.rplib "下载 Iconfont 平台元件库") （官方图标 x24），包括 Alibaba 国际站、支付宝、支付宝记账等分组图标。
+> - [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32），包括社交、社交（国外）、文档类型等分组图标。
+> - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128），包括封面、生活小图、生肖地支春节、天气、图表、交通、乐器、生活等分组图片。
+> - 更多信息，请参见 [Easyicon 官网](http://www.easyicon.net) 、[Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
 
 
 ### ☞ 手势图片
@@ -111,20 +111,17 @@
 基于 Font Awesome V4.7.0 图标字体创建，在使用前，需要在操作系统设计中先安装此字体 FontAwesome.otf。另外，如果不想在导出的原型中依赖字体库，造成不方便的情况，可以在原型设计时，拉入字体图标后，鼠标右键“Convert to Image”来将其转换为图片即可。
 > - [下载 refs-icon-font-awesome-v4.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-font-awesome-v4.rplib "下载 Font Awesome 字体图标元件库") （官方图标 x24），包括 Web Application，Accessibility，Hand，Transportation，Gender，File Type，Spinner，Form Control，Payment，Chart，Currency，Text Editor，Directional，Video Player，Brand，Medical 等分类字体图标。
 > - [下载 FontAwesome.otf 字体（必须安装）](https://github.com/FortAwesome/Font-Awesome/blob/v4.7.0/fonts/FontAwesome.otf "下载 Font Awesome 字体")
-- 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。
+> - 更多信息，请参见 [Font Awesome 官网](http://fontawesome.io) 。
 
 
 ### 资源推荐
-另外，还有一些资源推荐给您：
-- Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本），汉化预览:
+另外，还有一些资源推荐给您。
+
 ![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
+> - Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3646 版本）
+> - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
-- 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
-
-
-更多参考资源，请访问 https://refscn.github.io 。
-
-
+> 更多参考资源，请访问 https://refscn.github.io 。
 > 申明：Refs.cn 在这里开源的 Axure RP 元件库，秉承开放共享的思想，供大家免费使用，欢迎各站点转载和分享。严禁用于销售，违者必究。
 
 

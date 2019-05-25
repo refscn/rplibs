@@ -1,10 +1,17 @@
-安装 Axure RP 元件库：请将下载的 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 9/8 软件，并在元件库列表中选择相应元件库即可使用。
+
+## 安装
+请将下载的 Axure RP 元件库 .rplib 文件放到 Axure RP 元件库目录下，然后重新打开 Axure RP 9/8 软件，并在元件库列表中选择相应元件库即可使用。
 元件库目录位置：
 - Windows 系统：我的文档/Axure/Libraries
 - macOS 系统：文稿/Axure/Libraries
 
-希望 Refs.cn 制作的元件库能给您带来帮助，如果感觉还不错，简单 ★Star 一下就很感激了。想了解和获取后续更新版本，也可以保持关注。
+希望 Refs.cn 制作的元件库能给您带来帮助，如果感觉还不错，简单 ★Star 一下就很感激了。想了解和获取后续更新版本，可保持关注。
 > 如果您有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
+
+```
+预见未来最好的方式就是创造它。
+                ——林肯
+```
 
 ---
 ## 设计平台元件库
@@ -52,12 +59,11 @@
 ### ☞ 手势图片
 基于 Jeff Portaro 的 Touch Gestures Icons 创建，适用于所有移动平台触控、桌面触控，以及触控面板的操作手势表达。 
 ![预览](https://github.com/refscn/rpdemo/raw/master/assets/touch-gestures-icons.jpg)
+> [预览全部手势](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 > - [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和扩展手势等分类图片。
 > - [查看原始图片地址](https://pixelbuddha.net/freebie/touch-gestures-icons)
-> - [预览全部图片](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 
 
----
 
 ## 图表元件库
 ### ☞ 模型和数据图表

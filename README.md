@@ -49,6 +49,16 @@
 > - [推荐下载 Ant Design Library](http://library.ant.design/ "去下载 Ant Design 元件库") ，Ant Design 实现比较完整，同时与其技术框架匹配，推荐直接使用。
 
 
+### ☞ 手势图片
+基于 Jeff Portaro 的 Touch Gestures Icons 创建，适用于所有移动平台触控、桌面触控，以及触控面板的操作手势表达。 
+![预览](https://github.com/refscn/rpdemo/raw/master/assets/touch-gestures-icons.jpg)
+> - [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和扩展手势等分类图片。
+> - [查看原始图片地址](https://pixelbuddha.net/freebie/touch-gestures-icons)
+> - [预览全部图片](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
+
+
+---
+
 ## 图表元件库
 ### ☞ 模型和数据图表
 
@@ -96,13 +106,6 @@
 > - [下载 refs-icon-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-colorful.rplib "下载 Iconfont 平台彩色图标元件库") （彩色图标 x32），包括社交、社交（国外）、文档类型等分组图标。
 > - [下载 refs-image-colorful.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-colorful.rplib "下载 Iconfont 平台彩色图片元件库") （彩色图片 x128），包括封面、生活小图、生肖地支春节、天气、图表、交通、乐器、生活等分组图片。
 > - 更多信息，请参见 [Easyicon 官网](http://www.easyicon.net) 、[Smallicons 官网](http://smallicons.net) 和 [Iconfont 平台官网](https://iconfont.cn) 等。
-
-
-### ☞ 手势图片
-基于 Jeff Portaro 的 Touch Gestures Icons 创建，适用于所有移动平台触控、桌面触控，以及触控面板的操作手势表达。 
-> - [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和扩展手势等分类图片。
-> - [查看原始图片地址](https://pixelbuddha.net/freebie/touch-gestures-icons)
-> - [预览全部图片](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 
 
 ### ☞ Font Awesome 字体图标

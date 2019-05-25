@@ -84,7 +84,7 @@
 
 ### ☞ Icons8 图标/图片
 基于 Icons8 图标创建。
-![图标预览](https://raw.githubusercontent.com/refscn/rpdemo/master/assets/flat-color-icons.jpg)
+![图标预览](https://raw.githubusercontent.com/refscn/rpdemo/master/assets/flat-color-icons.png)
 > - [下载 refs-icon-s8flat.rplib](https://github.com/refscn/rplibs/raw/master/refs-icon-s8flat.rplib "下载 Icons8 Flat 彩色图标元件库") （彩色图标 x32），包括照片和视频、基本、商业、工业、移动、箭头、数据和新增等分组图标。
 > - [原始图标地址](https://icons8.github.io/flat-color-icons/)
 > - 更多信息，请参见 [Icons8 官网](https://icons8.com)。

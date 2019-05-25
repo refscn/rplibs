@@ -60,7 +60,7 @@
 ![预览](https://github.com/refscn/rpdemo/raw/master/assets/touch-gestures-icons.jpg)
 > [预览全部手势](https://pixelbuddha.net/sites/default/files/freebie-slide/freebie-retina-slide-1414493963-1.jpg)
 > - [下载 refs-image-gesture.rplib](https://github.com/refscn/rplibs/raw/master/refs-image-gesture.rplib "下载 手势图片元件库") ，包括单指、双指、三四五指、单手、双手和扩展手势等分类图片。
-> - [查看原始图片地址](https://pixelbuddha.net/freebie/touch-gestures-icons)
+> - 更多信息，请参见 [Touch Gestures Icons 网站](https://pixelbuddha.net/freebie/touch-gestures-icons) 。
 
 
 

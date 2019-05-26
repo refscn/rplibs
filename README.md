@@ -14,6 +14,11 @@
 
 
 ## 设计平台元件库
+
+```
+新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。具体参见下方相应描述。
+```
+
 ### ☞ Material Design
 基于 Google Material Design 准则创建，适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计。
 
@@ -37,7 +42,8 @@
 
 ### ☞ Fluent Design
 基于 Microsoft Fluent Design System 创建，适用于 Windows 手机、平板和桌面 UWP 应用的原型设计。
-> - 下载 refs-design-fluent.rplib （进行中，稍后推出）
+> - [下载 refs-design-fluent.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-fluent.rplib "下载 Fluent Design 元件库")，包括常规、基本输入、集合、对话框/弹窗、文本、滚动/状态/信息、菜单/工具条、导航、水平导航/枢轴、选择器、媒体和窗口外壳等分组元件。
+
 
 
 ## 网页设计元件库

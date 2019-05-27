@@ -1,6 +1,5 @@
 ```
-“预见未来最好的方式就是创造它。”
-            —— 亚伯拉罕·林肯
+全新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。从此 iOS、macOS、Android、Windows、微信等多平台的原型设计自由跨越。
 ```
 
 ## 安装
@@ -12,22 +11,21 @@
 希望 Refs.cn 制作的元件库能给您带来帮助，如果感觉还不错，简单 ★Star 一下就很感激了。想了解和获取后续更新版本，可保持关注。
 > 如果您有一些好的建议或者实际需要，可 New issue 一下，或 [通过电子邮件](mailto:"参考集"<contactus@refs.cn>)告诉我。
 
+```
+“预见未来最好的方式就是创造它。”
+            —— 亚伯拉罕·林肯
+```
+
 
 ## 设计平台元件库
 
-```
-新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。具体参见下方相应描述。
-```
+### ☞ Fluent Design
+基于 Microsoft Fluent Design System 创建，适用于 Windows 个人电脑、手机、Xbox One、HoloLens 等设备应用的原型设计。
 
-### ☞ Material Design
-基于 Google Material Design 准则创建，适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计。
-
-![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-material-preview.png)
-> [查看完整大图](http://refs.cn/rplibs/design-material)
-> - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")，包括常规、模式、基本、输入、列表、富列表、卡片、弹窗和扩展等分组元件。
-> - [下载 Noto Sans CJK SC 字体（可选安装）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")，安装后原型页面有更好的显示效果。
-> - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
-> - 更多信息，请参见 [Material Design 官网](https://material.io) 。
+![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-fluent-preview.png)
+> [查看完整大图](http://refs.cn/rplibs/design-fluent)
+> - [下载 refs-design-fluent.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-fluent.rplib "下载 Fluent Design 元件库")，包括常规、基本输入、集合、对话框/弹窗、文本、滚动/状态/信息、菜单/工具条、导航、水平导航/枢轴、选择器、媒体和窗口外壳等分组元件。
+> - 更多信息，请参见 [Fluent Design 官网](https://www.microsoft.com/design/fluent/) 。
 
 
 ### ☞ Apple Design
@@ -40,10 +38,15 @@
 > - macOS 平台更多信息，请参见 [macOS 设计准则](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/) 。
 
 
-### ☞ Fluent Design
-基于 Microsoft Fluent Design System 创建，适用于 Windows 个人电脑、手机、Xbox One、HoloLens 等设备应用的原型设计。
-> - [下载 refs-design-fluent.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-fluent.rplib "下载 Fluent Design 元件库")，包括常规、基本输入、集合、对话框/弹窗、文本、滚动/状态/信息、菜单/工具条、导航、水平导航/枢轴、选择器、媒体和窗口外壳等分组元件。
-> - 更多信息，请参见 [Fluent Design 官网](https://www.microsoft.com/design/fluent/) 。
+### ☞ Material Design
+基于 Google Material Design 准则创建，适用于 Android 手机、平板应用，以及跨平台桌面应用的原型设计。
+
+![预览](https://github.com/refscn/rpdemo/raw/master/assets/design-material-preview.png)
+> [查看完整大图](http://refs.cn/rplibs/design-material)
+> - [下载 refs-design-material.rplib](https://github.com/refscn/rplibs/raw/master/refs-design-material.rplib "下载 Material Design 元件库")，包括常规、模式、基本、输入、列表、富列表、卡片、弹窗和扩展等分组元件。
+> - [下载 Noto Sans CJK SC 字体（可选安装）](https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip "下载 Noto 字体（需要翻墙）")，安装后原型页面有更好的显示效果。
+> - 更多 Noto 字体，请参见 [Google Noto Fonts 官网](https://www.google.com/get/noto/) 。
+> - 更多信息，请参见 [Material Design 官网](https://material.io) 。
 
 
 

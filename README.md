@@ -1,5 +1,6 @@
 ```
-全新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。从此 iOS、macOS、Android、Windows、微信等多平台的原型设计自由跨越。
+全新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。
+从此 iOS、macOS、Android、Windows、微信等多平台的原型设计自由跨越。
 ```
 
 ## 安装

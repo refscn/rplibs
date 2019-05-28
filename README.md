@@ -1,6 +1,17 @@
 ```
 全新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。
-从此 iOS、macOS、Android、Windows、微信等多平台的原型设计自由跨越。
+从此 iOS、macOS、Android、Windows、微信和小程序等多平台的原型任你自由跨越。
+
+对于元件库的设计，我参考官方的设计规范文档，尽可能不放过任何一个像素的偏差，
+无论长度、宽度、转角、颜色。希望你采用了此高保真元件，可以更好地和开发、测试
+等团队成员深入沟通。
+
+如果你的团队有 UI 设计人员，只希望你出具低保真的原型时，请在 Axure RP 软件中，
+打开菜单 “Project > Page Style Editor”，调整 
+⇨ Sketchiness 为 20 左右
+⇨ Color 为 Grayscale
+⇨ Font 为 自己找个中文手写字体
+确保你的原型不会干扰到 UI 设计者，希望我的建议对你有用，感谢你自由使用开源元件库。
 ```
 
 ## 安装

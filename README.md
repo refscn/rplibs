@@ -7,11 +7,12 @@
 等团队成员深入沟通。
 
 如果你的团队有 UI 设计人员，只希望你出具低保真的原型时，请在 Axure RP 软件中，
-打开菜单 “Project > Page Style Editor”，调整 
+打开菜单 “Project > Page Style Editor”，做以下调整： 
 ⇨ Sketchiness 为 20 左右
 ⇨ Color 为 Grayscale
 ⇨ Font 为 自己找个中文手写字体
-确保你的原型不会干扰到 UI 设计者，希望我的建议对你有用，感谢你自由使用开源元件库。
+以确保你的原型不会干扰到 UI 设计。
+希望我的建议对你有用，感谢你自由使用开源元件库。
 ```
 
 ## 安装

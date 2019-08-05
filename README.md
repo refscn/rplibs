@@ -147,7 +147,7 @@
 另外，还有一些资源推荐给您。
 
 ![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
-> - Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3650 版本）
+> - Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3655 版本）
 > - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
 更多参考资源，请访问 https://refscn.github.io 。

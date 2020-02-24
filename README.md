@@ -1,6 +1,5 @@
 ```
-全新推出 Microsoft Fluent Design 元件库，方便你的 Windows 应用原型设计。
-从此 iOS、macOS、Android、Windows、微信和小程序等多平台的原型任你自由跨越。
+这里提供微信和小程序、iOS、macOS、Android、Windows 等多平台的 Axure RP 元件库，你的原型任你自由飞跃。
 
 对于元件库的设计，我参考官方的设计规范文档，尽可能不放过任何一个像素的偏差，
 无论长度、宽度、转角、颜色。希望你采用了此高保真元件，可以更好地和开发、测试
@@ -147,7 +146,7 @@
 另外，还有一些资源推荐给您。
 
 ![Axure RP 9 导出界面汉化预览](https://github.com/refscn/rphh/raw/master/assets/hh-axure9.png)
-> - Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3679 版本）
+> - Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3681 版本）
 > - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
 更多参考资源，请访问 https://refscn.github.io 。

@@ -149,8 +149,11 @@
 > - Axure RP 导出原型界面汉化包：[refscn/rphh](https://github.com/refscn/rphh) （更新至 9.0.0.3740 和 10.0.0.3897 版本）
 > - 提供知识索引的参考卡片：[refscn/cards](https://github.com/refscn/cards)
 
-更多参考资源，请访问 https://refscn.github.io 或扫码加入我们的“参友共助”社群，找寻您所需要的更多参考资源（图书、行业报告、课程和视频等）。
-![微信扫码](https://raw.githubusercontent.com/refscn/rpdemo/main/assets/refs-qrcode.jpg)
+更多参考资源，请访问 https://refscn.github.io 或直接扫码加入我们的“参友共助”社群，找寻您所需资料（图书、行业报告、课程和视频等）。
+
+<picture>
+  <img alt="使用微信扫码入群" src="https://raw.githubusercontent.com/refscn/rpdemo/main/assets/refs-qrcode.jpg" width="292" />
+</picture>
 
 > 申明：Refs.cn 在这里开源的 Axure RP 元件库，秉承开放共享的思想，供大家免费使用，欢迎各站点转载和分享。严禁用于销售，违者必究。
 
